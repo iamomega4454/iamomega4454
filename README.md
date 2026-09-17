@@ -112,8 +112,8 @@ AI-powered cybersecurity platform for phishing emails, malicious URLs, fake QR c
 
 <br/><br/>
 
-<a href="https://github.com/iamomega4454?tab=overview&from=2026-01-01&to=2026-12-31">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamomega4454&bg_color=0d1117&color=79c0ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
+<a href="https://github.com/iamomega4454?tab=overview">
+<img src="https://img.shields.io/badge/VIEW%20LIVE%20CONTRIBUTIONS-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View live contributions" />
 </a>
 
 </div>
