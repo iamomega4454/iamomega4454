@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A12,45:0B3155,75:126E9B,100:58A6FF&height=230&section=header&text=AMAL%20KURIAN%20ROYCE&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Backend%20Systems&descAlignY=59&descSize=18" width="100%" alt="Animated blue header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A12,45:0B3155,75:126E9B,100:58A6FF&height=220&section=header&text=AMAL%20KURIAN%20ROYCE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Backend%20Systems&descAlignY=58&descSize=18" width="100%" alt="Animated header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=650&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+AI-powered+applications;Exploring+computer+vision;Designing+backend+systems;Creating+useful+software;Build+%E2%86%92+Test+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Animated typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=650&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+AI-powered+applications;Exploring+computer+vision;Designing+backend+systems;Turning+ideas+into+working+systems;Build+%E2%86%92+Test+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Animated typing" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=iamomega4454&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/iamomega4454">
+<img src="https://img.shields.io/badge/GitHub-iamomega4454-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" />
+</a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/iamomega4454?style=for-the-badge&color=0B6E99&label=FOLLOWERS" alt="Followers" />
+<img src="https://img.shields.io/github/followers/iamomega4454?style=for-the-badge&color=126E9B&label=FOLLOWERS" alt="Followers" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/iamomega4454?style=for-the-badge&color=238636&label=STARS" alt="Stars" />
+<img src="https://img.shields.io/github/stars/iamomega4454?style=for-the-badge&color=1F6FEB&label=STARS" alt="Stars" />
 
 </div>
 
@@ -73,10 +75,10 @@ A file and note vault project represented in the GitHub portfolio.
 
 ### 🛡️ <a href="https://github.com/iamomega4454/SINGHAM">SINGHAM</a>
 
-AI-powered cybersecurity platform for analyzing phishing emails, malicious URLs, fake QR codes and malware, with explainable threat analysis.
+AI-powered cybersecurity platform for phishing emails, malicious URLs, fake QR codes and malware analysis, with explainable threat analysis.
 
-`Flask` `XGBoost` `Random Forest` `SHAP`  
-`Gemini` `LangChain` `FAISS`
+`Flask` `XGBoost` `Random Forest`  
+`SHAP` `Gemini` `LangChain` `FAISS`
 
 </td>
 </tr>
@@ -88,29 +90,31 @@ AI-powered cybersecurity platform for analyzing phishing emails, malicious URLs,
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,flask,mongodb,firebase,opencv,docker,git,github,html,css&perline=7" alt="Technologies visible across my repositories" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,flask,mongodb,firebase,opencv,docker,git,github,html,css&perline=7" alt="Technologies" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/AI-0B3155?style=for-the-badge&logo=sparkfun&logoColor=58A6FF" alt="AI" />
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-126E9B?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="Computer Vision" />
-<img src="https://img.shields.io/badge/BACKEND-1F6FEB?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="Backend" />
-<img src="https://img.shields.io/badge/CYBERSECURITY-16324F?style=for-the-badge&logo=shield&logoColor=58A6FF" alt="Cybersecurity" />
+<img src="https://img.shields.io/badge/Computer%20Vision-126E9B?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/Backend-1F6FEB?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="Backend" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamomega4454&show_icons=true&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamomega4454&layout=compact&hide_border=true&theme=github_dark&title_color=58A6FF&text_color=C9D1D9" height="180" alt="Top languages" />
+<img src="https://img.shields.io/github/commit-activity/y/iamomega4454/iamomega4454?style=for-the-badge&label=PROFILE%20COMMITS&color=1F6FEB" alt="Profile commits" />
+<img src="https://img.shields.io/github/last-commit/iamomega4454/iamomega4454?style=for-the-badge&label=LAST%20PROFILE%20UPDATE&color=126E9B" alt="Last profile update" />
+<img src="https://img.shields.io/github/repo-size/iamomega4454/iamomega4454?style=for-the-badge&label=PROFILE%20REPO&color=0B6E99" alt="Profile repository size" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=iamomega4454&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=238636&currStreakLabel=58A6FF&sideLabels=79C0FF&dates=8B949E" alt="GitHub contribution streak" />
+<a href="https://github.com/iamomega4454?tab=overview&from=2026-01-01&to=2026-12-31">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamomega4454&bg_color=0d1117&color=79c0ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
+</a>
 
 </div>
 
@@ -120,32 +124,24 @@ AI-powered cybersecurity platform for analyzing phishing emails, malicious URLs,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iamomega4454/iamomega4454/output/github-contribution-grid-snake.svg" alt="Snake eating GitHub contributions" />
+<p><b>Watch the snake eat my GitHub contribution graph.</b></p>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/iamomega4454/iamomega4454/output/github-contribution-grid-snake-dark.svg" alt="Dark contribution snake animation" />
-
-</div>
-
----
-
-## 🎬 Animated Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamomega4454&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamomega4454/iamomega4454/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamomega4454/iamomega4454/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/iamomega4454/iamomega4454/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake eating GitHub contributions" />
+</picture>
 
 </div>
 
 ---
 
-## 🔗 Explore My Work
+## 🔗 Explore
 
 <div align="center">
 
 <a href="https://github.com/iamomega4454?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-0B3155?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore repositories" />
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-0B3155?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore all repositories" />
 </a>
 
 <br/><br/>
@@ -164,6 +160,6 @@ AI-powered cybersecurity platform for analyzing phishing emails, malicious URLs,
 
 ### `build → test → improve → repeat`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A12,40:0B3155,75:126E9B,100:58A6FF&height=160&section=footer&animation=twinkling" width="100%" alt="Animated blue footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A12,40:0B3155,75:126E9B,100:58A6FF&height=150&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
 
 </div>
